@@ -1,4 +1,6 @@
-<img src="images/AGO.jpeg" alt="Фото профілю Гліба Алєксєєнка" width="180" style="border-radius: 50%;" />
+<p align="center">
+  <img src="images/AGO.jpeg" alt="Фото профілю Гліба Алєксєєнка" width="180" style="border-radius: 50%;" />
+</p>
 
 Hi, I'm Hlib Alieksieienko
 
