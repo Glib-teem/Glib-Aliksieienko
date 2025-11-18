@@ -4,7 +4,7 @@
 
 👋 Hi, I'm Hlib Alieksieienko
 
----
+----
 
 ## Junior Full Stack Developer | React | Node.js
 
